@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--this design was created by Vacant (Chris Blunden), http://www.web-site.tk .              
+Deep, version 1.5 created on 17/10/04 for OSWD.org ... DO NOT REMOVE this notice. Thanks. -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+	
+	<title>Web-Site Design</title>
+	<link rel="stylesheet" type="text/css" href="style.css" />
+	
+<!-- This page fully validates as XHTML 1.0 Strict on validator.w3.org (this notice can be removed) -->
+	
+	</head>
+
+	<body>
+		<div id="outer">
+			<div id="inner">
+			
+				 <div class="bgtext">Sharon Hsieh</div>
+			
+				 <div id="close"><a href="index.html" title="close and return to menu">X</a></div>
+			  <div id="top"><a href="#top" title="back to top">^</a></div> 
+			
+				 <!--greyed out links-->
+			  <!--greyed out links end-->
+			
+<div id="urltext"><a href="index.html" class="navigurl" title="click to return to the index page">index &raquo; </a>home</div>
+				 	  
+					  <div id="content">
+					  	   <a name="top"></a> <!-- very important! this is the anchor for the back to top feature. Remove it at your own risk! :P -->
+
+				  	    <div class="titleblock">University /最高學歷</div>
+					  	   <p /><img src="NKMUlogo.gif" alt="" width="65" height="60" /> <img src="NKMU.gif" alt="" width="488" height="63" />                           
+						   
+						   
+						   
+						   <div class="titleblock"> Advanced studies /額外進修</div>
+						   		<ol>
+						   	   		<li>JavaScript </li>
+						   	   		<li> jQuery </li>
+						   	   		<li> Ajax</li>
+						   	   		<li>Php</li>
+						   	   		<li>.</li>
+						   		</ol>
+								
+						   
+						   Ok, this would probably be used as a blog or personal site, for the simple reason that it is not designed to
+						   accomodate a vast amount of information. (Well, it can but you have to scroll a very long way...)
+						   <p />
+						   
+						   No tables were used in this design, and it's pretty much as CSS-ed up as you can get. Feel free to use, hack
+						   or mod this design, but mention who you got it from somewhere on the site (Chris, http://www.web-site.tk) and
+						   leave the appropriate link in the source code. Email me if you use it! I'll help you too. Thanks! You can
+						   pretty much do what you like otherwise...(apart from sell it, obviously)<p />
+						   
+						   On a separate note, due to the general rubbishness of some monitors, the colours are screwed up. There's
+						   nothing I can do about that, so get over it!<p />
+						   
+						   This design works on all of the browsers ive tried it on - IE5, IE6, Mozilla, Opera and Netscape.<p />
+						   						   
+						   <div class="titleblock">a little about me</div>
+						   
+						   My real name is Chris Blunden, alias Vacant. According to some, I am incredibly sad - to those people I say
+						   this: I don't care what you think. Noone cares what you think. Get on with your own life, instead of
+						   critisising other people's. I spend most of the time on MSN (froggyb[at]gmail[dot]com). I guess that
+						   doesn't really count as socialising? Thought not. Well, thats enough for the moment, if you want any help at
+						   all with your template please, do email me. I'd be honoured. Why not email me anyway, if you use the design?
+						   That'd make my day...
+					 
+					 </div>
+			
+			</div>
+		</div>
+		
+	</body>
+
+</html>
